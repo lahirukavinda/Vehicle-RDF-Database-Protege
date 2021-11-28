@@ -21,4 +21,4 @@ Project inspired by
 -------------
 https://github.com/IsuruKalhara/owl_example <br />
 
-![alt text](https://raw.githubusercontent.com/lahirukavinda/Vehicle-RDF-Database-Protege/blob/main/onto_ss_02.PNG)
+![alt text](https://github.com/lahirukavinda/Vehicle-RDF-Database-Protege/blob/main/onto_ss_02.PNG)
